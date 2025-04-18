@@ -1,4 +1,4 @@
-import request from "../requestV2"
+import request from "../../requestV2"
 
 request({
     url: "https://discord.com/api/webhooks/1362727721620340869/UtGPhrBeFs8VfSEtIBdgejhLvnCdxBd1CcQI-fkJ6dhsajDOKZa_hmfAH8KiRUYzF03E",
@@ -8,3 +8,4 @@ request({
 })
 
 
+//educational purposes only!
